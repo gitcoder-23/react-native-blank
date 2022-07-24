@@ -5,3 +5,6 @@ com.awesomern
 cd android && ./gradlew clean && cd ..
 npm start -- --reset-cache
 npm run android
+
+// react-native app in web
+https://youtu.be/itMhGwiLrrs
