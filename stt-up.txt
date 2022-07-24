@@ -1,0 +1,3 @@
+com.snapclick.snapclickinfo -> com.companyname.projectname
+
+com.awesomern
