@@ -1,3 +1,7 @@
 com.snapclick.snapclickinfo -> com.companyname.projectname
 
 com.awesomern
+
+cd android && ./gradlew clean && cd ..
+npm start -- --reset-cache
+npm run android
